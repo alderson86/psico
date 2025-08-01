@@ -1,2 +1,2 @@
 # psico
-Dr. Egon Spengler
+Dr. fulano modelo
