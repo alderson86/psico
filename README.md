@@ -1,2 +1,0 @@
-# psico
-Dr. fulano modelo
